@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is a direct copy of DATA SLAYER's Haven Ip Mesh Radio Build PDF (which he charges 100$/usd), Godspeed freinds.
+This is a direct copy of DATA SLAYER's Haven Ip Mesh Radio Build PDF (which he charges 100$/usd), Godspeed friends.
 <!--
 **Mikehunt123454321/MikeHunt123454321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
